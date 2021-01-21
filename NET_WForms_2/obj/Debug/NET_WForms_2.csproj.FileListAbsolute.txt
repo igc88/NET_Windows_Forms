@@ -1,0 +1,10 @@
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\bin\Debug\NET_WForms_2.exe.config
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\bin\Debug\NET_WForms_2.exe
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\bin\Debug\NET_WForms_2.pdb
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\obj\Debug\NET_WForms_2.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\obj\Debug\NET_WForms_2.Form1.resources
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\obj\Debug\NET_WForms_2.Properties.Resources.resources
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\obj\Debug\NET_WForms_2.csproj.GenerateResource.cache
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\obj\Debug\NET_WForms_2.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\obj\Debug\NET_WForms_2.exe
+C:\Users\Iago\source\repos\igc88\NET_Windows_Forms\NET_WForms_2\obj\Debug\NET_WForms_2.pdb
